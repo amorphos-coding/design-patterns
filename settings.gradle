@@ -1,0 +1,6 @@
+rootProject.name = 'design-patterns'
+
+include 'design-patterns-factory'
+include 'design-patterns-object-pool'
+include 'design-patterns-builder'
+include 'design-patterns-proxy'
